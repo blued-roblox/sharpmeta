@@ -10,3 +10,4 @@ Ideal for testing and executing various mods and cheats with ease.
 
 >Make sure that you install both VC runtime files for executor to run.
 
+![Our executor logo.](https://pasteboard.co/99HdjoOhDTMN.jpg)
