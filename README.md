@@ -8,5 +8,5 @@
 
 Ideal for testing and executing various mods and cheats with ease.
 
->Make sure that you download both VC runtime files for executor to run.
+>Make sure that you install both VC runtime files for executor to run.
 
