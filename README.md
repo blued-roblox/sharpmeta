@@ -1,13 +1,15 @@
-### **META**
+# Discord Bot Status Changer [ GlaceYT ]
 
-#META is a PC Roblox executor designed for running scripts in Roblox games. It offers:
+This Discord bot status changer is a simple JavaScript application that allows you to change your bot's presence status on Discord. You can customize your bot's status to display a specific message or show that it is playing a particular game.
 
-- **Stable Performance**: Reliable and consistent execution of scripts.
-- **User-Friendly Interface**: Easy-to-navigate design for seamless use.
-- **Wide Script Support**: Compatible with a broad range of up-to-date scripts.
+## Usage
 
-Ideal for testing and executing various mods and cheats with ease.
+1. Clone or download this repository to your local machine or fork it.
 
->Make sure that you install both VC runtime files for executor to run.
+2. Install the required dependencies using npm or yarn:
 
-![Our executor logo.](https://gcdnb.pbrd.co/images/lGpeqSC77WnV.jpg?o=1)
+   ```shell
+   npm install
+   ```
+3. Add your token in secrets
+
